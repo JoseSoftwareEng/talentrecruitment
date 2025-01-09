@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+
+    margin: 35px;
+    margin-left: 100px;
+    float: left;
+    font-size: large;
+}
+
+span{
+
+    color: rgb(1, 255, 1);
+}
+
+.menu{
+
+    text-align: end;
+    margin-right: 70px;
+}
+
+.active{
+
+    background: rgb(55, 229, 55);
+    color: black;
+}
+
+li{
+
+    display: inline-block;
+    margin: 5px;
+    margin-top: 25px;
+    border: 1px solid rgb(59, 245, 59);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+li:hover{
+
+    background: rgb(55, 229, 55);
+    color: black;
+}
+
+.container{
+    background: url(employee.jpg);
+    background-position: top;
+    margin-top: 15px;
+    padding-bottom: 550px;
+    color: rgb(253, 253, 253);
+}
+
+.hdr{
+    font-size:45px;
+    margin-left: 100px;
+}
+
+.hdz{
+    font-size:x-large;
+    margin-left: 100px;
+    color: rgb(8, 211, 76);
+}
+
+.box{
+    
+    width: 700px;
+}
+
+.sch{
+
+    text-align: center;
+    margin-top: 150px;
+}
+
+input{
+    border: 1px solid greenyellow;
+    border-radius: 30px;
+    background: rgb(255, 255, 255);
+    color: greenyellow;
+    width: 300px;
+    padding: 20px;
+}
+
+.btn{
+    background: greenyellow;
+    color: rgb(14, 14, 14);
+    width: 100px;
+}
+
+.grid{
+    width: 500px;
+    margin-left: 100px;
+    padding-bottom: 150px;
+    
+}
+
+.grid-2{
+    text-align: end;
+    margin-left: 100px;
+    padding-bottom: 100px;
+    
+}
+
+.tittle{
+    text-align: center;
+    width: 100px;
+
+}
+
+.see{
+
+    border: 1px solid rgb(25, 25, 24);
+    background: black;
+    color: azure;
+    width: 170px;
+    padding: 18px;
+}
+
+.empresas{
+    text-align: right;
+    padding-bottom: 60px;
+    background: url(empresas.jpg);
+    background-position: bottom;
+}
+
+.cont{
+    margin-top: 40px;
+    height: 200px;
+    width: 700px;
+    display: inline-block;
+    margin-right: 130px;
+}
+
+.empresas-2{
+    text-align: center;
+    padding-bottom: 60px;
+    background-position: bottom;
+}
+
+.parceiros{
+
+}
+.spr{
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+img{
+
+    height: 170px;
+    width: 200px;
+}
+
+.nwl{
+
+    border: 1px solid black;
+    background: black;
+}
+
+.nw{
+    text-align: center;
+    color: azure;
+    padding-bottom: 100px;
+}
+
+.new{
+    border: 2px solid rgb(255, 255, 255);
+    padding: 15px;
+    background: transparent;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+.newcad{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 15px;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 100px;
+}
+
+.footer{
+
+    background: green;
+    text-align: center;
+    padding-bottom: 50px;
+    
+}
+
+.dtl{
+    margin-top: 40px;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    margin: 30px;
+    width: 300px;
+}
+
+.sgt{
+    color: azure;
+}
